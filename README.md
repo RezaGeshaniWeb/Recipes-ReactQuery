@@ -1,4 +1,4 @@
-# Recipes-ReactQuery
+# Recipes - ReactQuery
 
 [Online Demo](https://recipes-react-query.vercel.app/)
          
